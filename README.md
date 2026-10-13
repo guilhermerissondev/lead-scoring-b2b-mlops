@@ -70,7 +70,7 @@ The trained model is **not versioned**. `modelo_lead_scoring.pkl`, `features_mod
 ## How to Run
 
 ```bash
-git clone https://github.com/guilhermehrsilva/lead-scoring-b2b-mlops.git
+git clone https://github.com/guilhermerissondev/lead-scoring-b2b-mlops.git
 cd lead-scoring-b2b-mlops
 pip install -r requirements.txt
 ```
